@@ -39,11 +39,12 @@ cd AWS-PlantUML
 python3 puml.py -c ./puml.ini ../OpenSecIcons/icons/ #icons output to ./dist/osa/
 
 ```
+The content of ./dist/osa/ was uploaded to https://github.com/Crashedmind/PlantUML-opensecurityarchitecture-icons/tree/master/OSA-Plantuml-Icons/
 
 
-
-## Example Output
+## Example PlantUML Code and Diagram using these PlantUML icons
 ![](example.png)
+
 
 
 
