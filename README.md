@@ -45,6 +45,12 @@ The content of ./dist/osa/ was uploaded to https://github.com/Crashedmind/PlantU
 ## Example PlantUML Code and Diagram using these PlantUML icons
 ![](example.png)
 
+## All icons
+![](all-1.png)
+
+![](all-2.png)
+
+
 
 
 
