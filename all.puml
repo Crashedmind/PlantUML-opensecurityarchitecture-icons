@@ -1,0 +1,113 @@
+@startuml
+
+!include ./arrow/green/left/left.puml
+!include ./arrow/yellow/right/right.puml
+!include ./awareness/awareness.puml
+!include ./contract/contract.puml
+!include ./database/database.puml
+!include ./desktop/desktop.puml
+!include ./desktop/imac/imac.puml
+!include ./device_music/device_music.puml
+!include ./device_scanner/device_scanner.puml
+!include ./device_usb/device_usb.puml
+!include ./device_wireless_router/device_wireless_router.puml
+!include ./disposal/disposal.puml
+!include ./drive_optical/drive_optical.puml
+!include ./firewall/firewall.puml
+!include ./hub/hub.puml
+!include ./ics/drive/drive.puml
+!include ./ics/plc/plc.puml
+!include ./ics/thermometer/thermometer.puml
+!include ./id/card/card.puml
+!include ./laptop/laptop.puml
+!include ./lifecycle/lifecycle.puml
+!include ./lightning/lightning.puml
+!include ./media_flash/media_flash.puml
+!include ./media_optical/media_optical.puml
+!include ./media_tape/media_tape.puml
+!include ./mobile/pda/pda.puml
+!include ./padlock/padlock.puml
+!include ./printer/printer.puml
+!include ./site_branch/site_branch.puml
+!include ./site_factory/site_factory.puml
+!include ./user/audit/audit.puml
+!include ./user/black/hat/hat.puml
+!include ./user/blue/blue.puml
+!include ./user/blue/security/specialist/specialist.puml
+!include ./user/blue/sysadmin/sysadmin.puml
+!include ./user/blue/tester/tester.puml
+!include ./user/blue/tie/tie.puml
+!include ./user/green/architect/architect.puml
+!include ./user/green/business/manager/manager.puml
+!include ./user/green/developer/developer.puml
+!include ./user/green/green.puml
+!include ./user/green/operations/operations.puml
+!include ./user/green/project/manager/manager.puml
+!include ./user/green/service/manager/manager.puml
+!include ./user/green/warning/warning.puml
+!include ./user/large/group/group.puml
+!include ./users/blue/green/green.puml
+!include ./user/white/hat/hat.puml
+!include ./vpn/vpn.puml
+!include ./wireless/network/network.puml
+
+
+
+Left: <$left>
+Right: <$right>
+Awareness: <$awareness>
+Contract: <$contract>
+Database: <$database>
+Desktop: <$desktop>
+Imac: <$imac>
+Device_music: <$device_music>
+Device_scanner: <$device_scanner>
+Device_usb: <$device_usb>
+Device_wireless_router: <$device_wireless_router>
+Disposal: <$disposal>
+Drive_optical: <$drive_optical>
+Firewall: <$firewall>
+Hub: <$hub>
+Drive: <$drive>
+Plc: <$plc>
+Thermometer: <$thermometer>
+Card: <$card>
+Laptop: <$laptop>
+Lifecycle: <$lifecycle>
+Lightning: <$lightning>
+Media_flash: <$media_flash>
+Media_optical: <$media_optical>
+Media_tape: <$media_tape>
+Pda: <$pda>
+Padlock: <$padlock>
+Printer: <$printer>
+Site_branch: <$site_branch>
+Site_factory: <$site_factory>
+Audit: <$audit>
+Hat: <$hat>
+Blue: <$blue>
+Specialist: <$specialist>
+Sysadmin: <$sysadmin>
+Tester: <$tester>
+Tie: <$tie>
+Architect: <$architect>
+Manager: <$manager>
+Developer: <$developer>
+Green: <$green>
+Operations: <$operations>
+Manager: <$manager>
+Manager: <$manager>
+Warning: <$warning>
+Group: <$group>
+Green: <$green>
+Hat: <$hat>
+Vpn: <$vpn>
+Network: <$network>
+
+
+
+
+
+
+
+@enduml
